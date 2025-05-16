@@ -1,0 +1,9 @@
+7------------------------------------------
+1 npm init , creation of all folders and  Installation of prettier
+
+8---------------------------------------------------
+-connection of database and names in constants.js
+-intall mongosse , express env  and (about dotenv importing)
+-connection of mongoose in index.js
+-the Alternate method in db folder -> index.js
+-importing of dot env method and also using it (generally for allocating the environment variables and how to use it(changing the config in the packeage.json file))
