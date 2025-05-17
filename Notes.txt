@@ -7,3 +7,11 @@
 -connection of mongoose in index.js
 -the Alternate method in db folder -> index.js
 -importing of dot env method and also using it (generally for allocating the environment variables and how to use it(changing the config in the packeage.json file))
+
+
+9----------------------------------------------------------------------
+
+-import express in that
+-intall of cors and cookieparser & import in app.js
+-about cors objects 
+-all app.use comnfigyration 
