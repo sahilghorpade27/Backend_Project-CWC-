@@ -16,3 +16,12 @@
 -about cors objects 
 -all app.use comnfigyration 
 -did about the APi handling and added 3 files in utils folder
+
+
+10--------------------------------------------------------------------------
+-creation of the Models user and video
+-Installation of mongoose aggregate paginate plugin and also bcrypt , JWT 
+-usage of pre middleware also its documents  in user Model
+-used the refresh and access tokens its generation and its expiry 
+
+
